@@ -1,3 +1,3 @@
-# Kaleidosoft Labs PLC
+# Kaleidosoft Labs
 
 Loading ...
